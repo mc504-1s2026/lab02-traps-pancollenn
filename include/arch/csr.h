@@ -48,7 +48,7 @@
 #define CSR_STVAL		0x143
 
 #define CSR_SSTATUS		0x100
-#define CSR_SSTATUS_SIE		(1UL << 1);
+#define CSR_SSTATUS_SIE		(1UL << 1)
 
 #define CSR_SEPC		0x141
 
